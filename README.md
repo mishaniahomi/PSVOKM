@@ -13,7 +13,7 @@
 	PyQt5>=5.15.4.
 	
 или запустить команду:
-    pip3 isntall -r requerements.txt
+    <br>pip3 isntall -r requerements.txt<br>
 3.2	Открыть файл PSVOK.py через интерпртатор Python и запустить код
 <h3>4.Работа в программе</h3>
 
